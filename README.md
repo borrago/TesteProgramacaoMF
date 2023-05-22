@@ -17,8 +17,8 @@ Patterns utilizados
 
 	•	Database per Service
 	•	Unit Of Work
+	• 	Dependency Injection
 	•	Repository
- • Dependency Injection
 
 
 Padrões de projetos utilizados
