@@ -34,5 +34,10 @@ Obg: É necessario ter o docker instalado
 	•	Executar o arquivo "up.bat"
 
 
+Testes
+
+	•	Foram utilizados testes de unidade na camada de Dominio
+	
+
 Desenho da arquitetura
  
