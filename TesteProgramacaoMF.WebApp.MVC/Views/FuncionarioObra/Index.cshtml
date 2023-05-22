@@ -1,0 +1,53 @@
+@model IEnumerable<TesteProgramacaoMF.Profissionais.Application.ViewModels.FuncionarioObraViewModel>
+
+@{
+    ViewData["Title"] = "Funcionarios Obras";
+}
+
+<h1>Funcionarios Obras</h1>
+
+<p>
+    <a asp-action="Create">Novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Funcionario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Obra)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DtInicio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DtFim)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Funcionario.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Obra.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DtInicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DtFim)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detalhar</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

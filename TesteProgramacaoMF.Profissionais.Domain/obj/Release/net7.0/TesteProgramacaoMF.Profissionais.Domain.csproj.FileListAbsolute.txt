@@ -1,0 +1,15 @@
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\bin\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.deps.json
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\bin\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.dll
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\bin\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.pdb
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\bin\Release\net7.0\TesteProgramacaoMF.Core.dll
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\bin\Release\net7.0\TesteProgramacaoMF.Core.pdb
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.csproj.AssemblyReference.cache
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.AssemblyInfoInputs.cache
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.AssemblyInfo.cs
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.csproj.CopyComplete
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.dll
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\obj\Release\net7.0\refint\TesteProgramacaoMF.Profissionais.Domain.dll
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.pdb
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Domain\obj\Release\net7.0\ref\TesteProgramacaoMF.Profissionais.Domain.dll

@@ -1,0 +1,12 @@
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Core\bin\Debug\net7.0\TesteProgramacaoMF.Core.deps.json
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Core\bin\Debug\net7.0\TesteProgramacaoMF.Core.dll
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Core\bin\Debug\net7.0\TesteProgramacaoMF.Core.pdb
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Core\obj\Debug\net7.0\TesteProgramacaoMF.Core.csproj.AssemblyReference.cache
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Core\obj\Debug\net7.0\TesteProgramacaoMF.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Core\obj\Debug\net7.0\TesteProgramacaoMF.Core.AssemblyInfoInputs.cache
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Core\obj\Debug\net7.0\TesteProgramacaoMF.Core.AssemblyInfo.cs
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Core\obj\Debug\net7.0\TesteProgramacaoMF.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Core\obj\Debug\net7.0\TesteProgramacaoMF.Core.dll
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Core\obj\Debug\net7.0\refint\TesteProgramacaoMF.Core.dll
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Core\obj\Debug\net7.0\TesteProgramacaoMF.Core.pdb
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Core\obj\Debug\net7.0\ref\TesteProgramacaoMF.Core.dll

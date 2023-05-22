@@ -1,0 +1,41 @@
+version: '3.5'
+services:
+  testeprogramacaomf:
+    build:
+      context: .
+      args:
+        - CONNECTIONSTRINGS__DEFAULTCONNECTION=Server=TesteProgramacaoMF.database:1433;Database=TesteProgramacaoMF;User Id=SA;Password=0^5N1eb8ll5@G!O22wnow#Vn@;TrustServerCertificate=True;
+        - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - 8080:80
+    environment:
+      - CONNECTIONSTRINGS__DEFAULTCONNECTION=Server=TesteProgramacaoMF.database,1433;Database=TesteProgramacaoMF;User Id=SA;Password=0^5N1eb8ll5@G!O22wnow#Vn@;TrustServerCertificate=True;
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - TesteProgramacaoMF.database
+    networks:
+      - TesteProgramacaoMF
+
+  TesteProgramacaoMF.database:
+    container_name: "TesteProgramacaoMF.database"
+    image: "mcr.microsoft.com/mssql/server:2019-latest"
+    ports:
+      - "8001:1433"
+    volumes:
+      - TesteProgramacaoMF.database:/var/opt/mssql
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: "Developer"
+      SA_PASSWORD: "0^5N1eb8ll5@G!O22wnow#Vn@"
+    networks:
+      - TesteProgramacaoMF
+
+volumes:
+  TesteProgramacaoMF.database:
+    name: TesteProgramacaoMF.database
+    external: false
+
+networks:
+  TesteProgramacaoMF:
+    name: TesteProgramacaoMF
+    driver: bridge

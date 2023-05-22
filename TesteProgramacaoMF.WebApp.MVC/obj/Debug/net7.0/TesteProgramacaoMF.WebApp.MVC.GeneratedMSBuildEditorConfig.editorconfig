@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TesteProgramacaoMF.WebApp.MVC
+build_property.RootNamespace = TesteProgramacaoMF.WebApp.MVC
+build_property.ProjectDir = C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.WebApp.MVC\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.WebApp.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Cargo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Cargo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Cargo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Cargo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Cargo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/FuncionarioObra/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9PYnJhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/FuncionarioObra/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9PYnJhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/FuncionarioObra/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9PYnJhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/FuncionarioObra/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9PYnJhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/FuncionarioObra/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9PYnJhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Funcionario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Funcionario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Funcionario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Funcionario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Funcionario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Obra/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2JyYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Obra/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2JyYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Obra/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2JyYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Obra/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2JyYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Obra/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2JyYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/TesteProgramacaoMF/TesteProgramacaoMF.WebApp.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-id31kp97j3

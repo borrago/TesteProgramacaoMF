@@ -1,0 +1,17 @@
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\bin\Release\net7.0\TesteProgramacaoMF.Profissionais.Application.deps.json
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\bin\Release\net7.0\TesteProgramacaoMF.Profissionais.Application.dll
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\bin\Release\net7.0\TesteProgramacaoMF.Profissionais.Application.pdb
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\bin\Release\net7.0\TesteProgramacaoMF.Core.dll
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\bin\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.dll
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\bin\Release\net7.0\TesteProgramacaoMF.Profissionais.Domain.pdb
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\bin\Release\net7.0\TesteProgramacaoMF.Core.pdb
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Application.csproj.AssemblyReference.cache
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Application.AssemblyInfoInputs.cache
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Application.AssemblyInfo.cs
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Application.csproj.CopyComplete
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Application.dll
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\obj\Release\net7.0\refint\TesteProgramacaoMF.Profissionais.Application.dll
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\obj\Release\net7.0\TesteProgramacaoMF.Profissionais.Application.pdb
+C:\Projetos\TesteProgramacaoMF\TesteProgramacaoMF.Profissionais.Application\obj\Release\net7.0\ref\TesteProgramacaoMF.Profissionais.Application.dll
